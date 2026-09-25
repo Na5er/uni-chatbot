@@ -1,0 +1,9 @@
+{
+    "documents": [
+        {
+            "id": 1,
+            "content": "The library is open from 8am to 8pm.",
+            "source": "user"
+        }
+    ]
+}

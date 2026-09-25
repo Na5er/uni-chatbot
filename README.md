@@ -17,5 +17,3 @@ The system consists of four main components:
 - `scraper/`: Web scraping scripts and data processing.
 - `vector_db/`: Database configuration and storage scripts.
 - `backend/`: API server and AI logic.
-# uni-chatbot
-# uni-chatbot
